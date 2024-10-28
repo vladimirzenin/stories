@@ -8,7 +8,7 @@
 На месте одного файла с рассказом появляются несколько копий с таинственными именами. Иными словами, возникают ровно те же проблемы, какие имеются при разработке ПО.  
   
 ## Связанные ресурсы
-https://author.today/u/vladimirzenin/works
-https://t.me/zenin_writes
+- https://author.today/u/vladimirzenin/works
+- https://t.me/zenin_writes
   
 Зенин Владимир
