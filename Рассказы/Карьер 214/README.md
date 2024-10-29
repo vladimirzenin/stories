@@ -30,3 +30,6 @@
 - https://litbes.com/karer-214/
 - https://pikabu.ru/story/karer_214_10718340
 - https://telegra.ph/Karer-214-01-17
+
+  
+Варианты названия: Карьер, Добродетель

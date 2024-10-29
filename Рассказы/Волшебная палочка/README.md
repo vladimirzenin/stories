@@ -26,3 +26,6 @@
 - https://author.today/work/300746
 - https://pikabu.ru/story/volshebnaya_palochka_10721349
 - https://telegra.ph/Volshebnaya-palochka-10-01
+
+  
+Вариант названия: Фреза
