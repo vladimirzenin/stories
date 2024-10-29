@@ -16,7 +16,7 @@ def txt_to_md(file_path):
 	.replace(";\n", ";  \n") \
 	.replace(",\n", ",  \n") \
 	.replace("\n–", "  \n–") \
-	.replace("\n***", ".\n\n\\***  ") \
+	.replace("\n***", "\n\n\\***  ") \
 	.replace("    ", "  ")
 	
 	file_md_path = file_path.replace(".txt", ".md")
