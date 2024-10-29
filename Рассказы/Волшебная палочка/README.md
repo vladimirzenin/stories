@@ -20,7 +20,7 @@
 - https://me-forum.ru/media/events/itogi-pervogo-sezona-literaturno-publitsistichesko/
 - https://ruskline.ru/opp/2022/03/01/itogi_pervogo_sezona_literaturnopublicisticheskogo_konkursa_zdravstvui_vremya
 
-## Текст на других платформах:
+## Текст на других платформах
 - http://moloko.ruspole.info/node/15414
 - https://www.zdvr.ru/publikatsii/publikatsii_126.html
 - https://author.today/work/300746
