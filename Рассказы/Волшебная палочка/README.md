@@ -15,7 +15,7 @@
 Февраль 2022
 
 ## Конкурсы
-Вошел с список финалистов конкурса "Здравствуй, время!".
+Вошёл с список финалистов конкурса "Здравствуй, время!".
 Напечатан в одноимённом журнале.
 - https://me-forum.ru/media/events/itogi-pervogo-sezona-literaturno-publitsistichesko/
 - https://ruskline.ru/opp/2022/03/01/itogi_pervogo_sezona_literaturnopublicisticheskogo_konkursa_zdravstvui_vremya
