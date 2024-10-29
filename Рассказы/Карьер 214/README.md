@@ -18,10 +18,12 @@
 ## Конкурсы
 Участник конкурса НФ 2021 на сайте litclubbs.ru
 Попал в два тура из трех:
+#### v1
 - http://litclubbs.ru/writers/6043-karer.html
 - http://litclubbs.ru/writers/6466-karer.html
 
 ## Текст на других платформах:
+#### v2
 - https://litclubbs.ru/articles/35741-karer-214.html
 - https://author.today/work/300532
 - https://ficbook.net/readfic/11651571/29929796
